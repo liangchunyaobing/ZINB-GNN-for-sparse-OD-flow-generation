@@ -7,7 +7,7 @@ Shared mobility services, such as bike sharing, have gained immense popularity a
 ## Data
 The efficacy of the proposed model is assessed using data from NYC's Citi Bike System (https://ride.citibikenyc.com/system-data). The system was launched in July 2013, and has made trip details available to the public from its onset, including start and end stations and related timestamps. This study is confined to the period between July 2013 and December 2019 to minimize the impact of the COVID-19 pandemic on biking behavior. 
 
-In this project, all the processed data used in our project are available at: https://drive.google.com/drive/folders/1YFUEtA9BpStGqSL9Qv6eCjJvmexzABfY?usp=sharing, including:
+In this project, all the processed data used in our project are available at: https://drive.google.com/drive/folders/1fg2f2TzELAe8W5WSLa5A3zeTGkvTnI7q?usp=sharing, including:
 (1) OD flows between BSS stations in each month
 (2) processed urban context features around BSS stations and spatial interaction features between station pairs
 (3) processed adjacency matrices between BSS stations in each month
